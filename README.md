@@ -49,7 +49,7 @@ It demonstrates the application of deep learning for **remote sensing and Earth 
 ## 🛠 Installation & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/Vaishnavi1313/CNN-satellite-image-classification
+git clone https://github.com/Vaishnavi1313/CNN-satellite-image-classification.git
 cd satellite-cnn
 
 # Install dependencies
