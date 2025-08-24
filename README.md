@@ -15,7 +15,7 @@ It demonstrates the application of deep learning for **remote sensing and Earth 
 ---
 
 ## 🗂 Dataset
-- The model is trained on [**EuroSAT**](https://github.com/phelber/E) / [UC Merced Land Use](http://weegee.vision.ucmerced.edu/datasets/landuse.html) dataset  
+- The model is trained on [**EuroSAT**](https://github.com/phelber/EuroSAT) / [UC Merced Land Use](http://weegee.vision.ucmerced.edu/datasets/landuse.html) dataset  
   (replace with the one you actually used).
 - Images are RGB, resolution 64x64 / 256x256 pixels (depending on dataset).
 - Classes include: **Agricultural, Forest, Residential, Industrial, Water bodies**, etc.
