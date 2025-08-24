@@ -41,7 +41,7 @@ It demonstrates the application of deep learning for **remote sensing and Earth 
 ) | soil | soil |
 | [sample2](![desert(66)](https://github.com/user-attachments/assets/3686d6f1-44fc-4e07-925c-fedf61fbb56a)
 ) | desert | desert |
-| [sample3](![Forest_39](https://github.com/user-attachments/assets/ae7c8822-b7e1-489a-8b93-0435659cc581)
+| [sample3](![Forest_22](https://github.com/user-attachments/assets/c873b54b-eb81-4dfd-a19a-4827ee6498bd)
 ) | forest | forest |
 
 ---
